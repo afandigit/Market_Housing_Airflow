@@ -1,0 +1,48 @@
+[2024-09-11T21:04:22.949+0100] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2024-09-11T21:04:22.950+0100] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2024-09-11T21:04:22.963+0100] {manager.py:485} INFO - Checking for new files in /home/afandisoufiane/airflow/dags every 300 seconds
+[2024-09-11T21:04:22.964+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:04:22.966+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:09:23.078+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:09:23.080+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:14:23.914+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:14:23.917+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:19:24.720+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:19:24.721+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:24:25.564+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:24:25.565+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:29:26.407+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:29:26.408+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:34:27.267+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:34:27.268+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:39:28.093+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:39:28.095+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:44:28.886+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:44:28.889+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:49:29.717+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:49:29.718+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:54:30.638+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:54:30.639+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:59:31.381+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T21:59:31.382+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:04:32.143+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:04:32.145+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:09:33.007+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:09:33.008+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:10:50.662+0100] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-11T22:14:56.296+0100] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2024-09-11T22:14:56.320+0100] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2024-09-11T22:14:56.321+0100] {manager.py:485} INFO - Checking for new files in /home/afandisoufiane/airflow/dags every 300 seconds
+[2024-09-11T22:14:56.322+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:14:56.324+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:19:57.240+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:19:57.242+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:24:58.031+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:24:58.032+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:29:58.884+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:29:58.886+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:34:59.755+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:34:59.756+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:39:59.813+0100] {manager.py:821} INFO - Searching for files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:39:59.814+0100] {manager.py:824} INFO - There are 0 files in /home/afandisoufiane/airflow/dags
+[2024-09-11T22:40:11.451+0100] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15

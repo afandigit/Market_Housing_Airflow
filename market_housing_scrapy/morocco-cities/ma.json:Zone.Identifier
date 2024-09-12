@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://simplemaps.com/data/ma-cities
+HostUrl=https://simplemaps.com/static/data/country-cities/ma/ma.json
